@@ -101,7 +101,8 @@ Example:
     "cid": "<cid>"
   },
   "createdAt": "2009-01-03T13:15:00.000Z",
-  "amount": "21000"
+  "amount": "21000",
+  "identifier": "alice.bitcoin.org"
 }
 ```
 
